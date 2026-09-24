@@ -420,6 +420,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "Platypwn 2026",
+        "比赛时间": "2026-11-14 01:00:00 - 2026-11-14 19:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3082.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://platypwnies.de/events/platypwn/",
+        "比赛标志": "https://ctftime.org/media/events/platypwnies-512_1_1.png",
+        "比赛权重": "37.00",
+        "赛事主办": "Platypwnies (https://ctftime.org/team/112550)",
+        "比赛ID": "979",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "WolvCTF 2026",
         "比赛时间": "2026-11-14 07:00:00 - 2026-11-16 07:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3049.ics",
@@ -465,18 +477,6 @@
         "比赛权重": "73.17",
         "赛事主办": "LosFuzzys (https://ctftime.org/team/8323)",
         "比赛ID": "863",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "SwampCTF 2026",
-        "比赛时间": "2026-11-21 05:00:00 - 2026-11-23 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3118.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.swampctf.com/",
-        "比赛标志": "",
-        "比赛权重": "0.00",
-        "赛事主办": "Kernel Sanders (https://ctftime.org/team/397)",
-        "比赛ID": "241",
         "比赛状态": "oncoming"
     },
     {
